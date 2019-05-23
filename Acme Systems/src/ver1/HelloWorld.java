@@ -6,9 +6,4 @@ public class HelloWorld {
 		System.out.println("Hello from Eclipse");
 		System.out.println("Hello from GitHub");
 	}
-	
-	public static void heyNow() {
-		System.out.println("hey now!");
-	}
-
 }
